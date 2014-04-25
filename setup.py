@@ -6,6 +6,6 @@ setup(
     install_requires=[
     ],
     packages=[
-	    'wadofstuff',
+	    'wadofstuff.django.serializers',
     ],
 )
