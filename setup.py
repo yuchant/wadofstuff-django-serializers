@@ -8,6 +8,6 @@ setup(
     packages=[
 	    'wadofstuff',
 	    'wadofstuff.django',
-	    'wadofstuff.django.seriaizers',
+	    'wadofstuff.django.serializers',
     ],
 )
